@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="200" src="https://gifdb.com/images/high/animated-ninja-bomb-explosion-op2kqxbnla2njcr3.webp"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitohs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitohs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -27,7 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
 
 ###
 
